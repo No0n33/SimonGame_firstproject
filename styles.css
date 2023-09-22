@@ -58,3 +58,28 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+@media (max-width: 1103px) {
+  .container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 560px) {
+  .btn {
+    width: 130px;
+    height: 130px;
+    line-height: 120px;
+  }
+}
+
+@media (max-width: 420px) {
+  #level-title {
+    font-size: 1.25rem;
+  }
+  .btn {
+    width: 60px;
+    height: 60px;
+    line-height: 50px;
+  }
+}
