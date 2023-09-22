@@ -1,17 +1,18 @@
-# Simon Game
+# <font color="blue">Simon Game</font>
 
 ## Overview
 
 Simon Game is a web-based memory game inspired by the classic Simon electronic game. The game presents a pattern of colors and requires the player to repeat the sequence by clicking on the corresponding colored buttons.
 
 This project was created as a part of learning web development and JavaScript programming.
+![SimonGame](visualization.png)
 
 ## Technologies Used
 
-- **HTML**: Structure of the webpage.
-- **CSS**: Styling and layout of the elements.
-- **JavaScript**: Game logic and interactivity.
-- **jQuery**: JavaScript library used for DOM manipulation and event handling.
+- **<font color="yellow">HTML</font>**: Structure of the webpage.
+- **<font color="yellow">CSS</font>**: Styling and layout of the elements.
+- **<font color="yellow">JavaScript</font>**: Game logic and interactivity.
+- **<font color="yellow">jQuery</font>**: JavaScript library used for DOM manipulation and event handling.
 
 ## Features
 
